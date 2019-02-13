@@ -1,0 +1,10 @@
+furniture name: supremechair	  model number: 11	  price: 4200.000000
+furniture name: computertable	  model number: 22	  price: 11300.000000
+furniture name: wardrobs	  model number: 33	  price: 18560.000000
+furniture name: cot    	          model number: 456	  price: 28500.000000
+furniture name: officechair	  model number: 67	  price: 6800.000000
+furniture name: dinningtable	  model number: 252	  price: 16200.000000
+furniture name: matresses	  model number: 201	  price: 11000.000000
+furniture name: sofaset 	  model number: 667	  price: 45000.000000
+furniture name: officetable	  model number: 889	  price: 25000.000000
+furniture name: beanbags	  model number: 303	  price: 2500.000000
